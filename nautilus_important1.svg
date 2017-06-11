@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="100" height="50"
 >
-  <text font-size="16" x="10" y="40">
+  <text font-size="18" x="10" y="30">
     <tspan fill="red">Important !</tspan>
   </text>
 </svg>
